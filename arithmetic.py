@@ -25,10 +25,17 @@ def divide(num1, num2):
     return float(num1 / num2)
 
 def square(num1):
-    pass
+    """
+    returns the square of the number
+    """
+    return num1 * num1
+
 
 def cube(num1):
-    pass
+    """
+    returns the cube of the number
+    """
+    return num1 ** 3
 
 def power(num1, num2):
     pass
