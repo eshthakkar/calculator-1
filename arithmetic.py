@@ -12,10 +12,17 @@ def subtract(num1, num2):
 	return num1 - num2
 
 def multiply(num1, num2):
-    pass
+    """
+    multiplies 2 numbers together
+    """
+    return num1 * num2
+
 
 def divide(num1, num2):
-    pass
+    """
+    divides 2 numbers together
+    """
+    return float(num1 / num2)
 
 def square(num1):
     pass
