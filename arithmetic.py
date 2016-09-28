@@ -22,7 +22,7 @@ def divide(num1, num2):
     """
     divides 2 numbers together
     """
-    return float(num1 / num2)
+    return float(num1) / num2
 
 def square(num1):
     """
